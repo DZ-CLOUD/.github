@@ -2,7 +2,7 @@
 Greetings from our open-source community! We're on a mission to bring the best of technology to everyone, combining the innovation of Apple with the openness of Google. Our focus is on creating cutting-edge solutions that are not only powerful but also accessible to all.
 
 🌈 **Contribution Guidelines:**
-We're excited to have you join our community! If you're eager to contribute, please take a look at our [Contribution Guidelines](guidelines). Whether you're a seasoned developer, a designer with a creative flair, or a documentation enthusiast, there's a place for you in our open-source family. Feel free to fork our repositories, submit pull requests, or engage in discussions on our community forums.
+We're excited to have you join our community! If you're eager to contribute, please take a look at our [Contribution Guidelines](guidelines.md). Whether you're a seasoned developer, a designer with a creative flair, or a documentation enthusiast, there's a place for you in our open-source family. Feel free to fork our repositories, submit pull requests, or engage in discussions on our community forums.
 
 👩‍💻 **Useful Resources:**
 For in-depth information and documentation, head over to our [Open Docs](link-to-docs). There, you'll find detailed guides, API documentation, and resources to help you get started. Join our community forum to connect with other users, ask questions, and collaborate on exciting projects.
